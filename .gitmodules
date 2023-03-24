@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "gWQS"]
+	path = gWQS
+	url = https://github.com/cran/gWQS
+	shallow = true
+	registered = true
